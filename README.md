@@ -1,6 +1,6 @@
 # conversor_moeda
 
-Conversor de moedas em Flutter
+Conversor de moedas em Flutter<br>
 API utilizada https://api.hgbrasil.com/finance?format=json-cors
 
 ![Home](https://i.imgur.com/g5aocvM.png)
